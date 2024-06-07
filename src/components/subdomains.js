@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import Layout from "../components/layout" // adjust path based on your project structure
+import Layout from "./layout" // adjust path based on your project structure
 
 const SubdomainsPage = () => (
   <Layout>

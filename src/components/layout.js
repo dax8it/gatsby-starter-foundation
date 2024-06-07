@@ -5,7 +5,6 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Logo from "./logo"
 import Navigation from "./navigation"
-import SubdomainsPage from "../components/subdomains"
 import "../assets/scss/style.scss"
 import Footer from "./footer"
 import Theme from "../components/theme"
@@ -44,7 +43,6 @@ const Layout = ({ children, className, props }) => {
         </div>
       </Header>
       <main className={"container " + className}>{children}</main>
-      <SubdomainsPage />
       <Footer />
     </div>
   )

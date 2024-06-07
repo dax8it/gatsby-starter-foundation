@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import { useEffect } from "react"
 import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 import { RiArrowRightSLine } from "react-icons/ri"
@@ -72,16 +71,6 @@ export const pageQuery = graphql`
 `
 
 const HomePage = ({ data }) => {
-  useEffect(() => {
-    const script = document.createElement("script")
-    script.defer = true
-    script.id = "namespace-widget"
-    script.widgetId = "0x548c333a38cd063a93d94bf710466c0d7d9b9f31eec844c29296f948541e69b0"
-    script.type = "module"
-    script.src = "https://namespace.fra1.digitaloceanspaces.com/widget/latest/bundle.js"
-    document.head.appendChild(script)
-  }, [])
-
   const { markdownRemark, posts } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const Image = frontmatter.featuredImage
@@ -212,7 +201,6 @@ const HomePage = ({ data }) => {
       </div>
     )
   })
-
   return (
     <Layout>
       <Seo />
@@ -265,6 +253,11 @@ const HomePage = ({ data }) => {
         </div>
       </div>
       <BlogListHome data={posts} />
+
+    
+
+    
+
     </Layout>
   )
 }
