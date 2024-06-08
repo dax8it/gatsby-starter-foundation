@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
+title: AI Ecosystem Dominance
+slug: /ai-ecosystem
+date: 2024-06-01 12:46
 description: "**AI Ecosystem** or an **Integrated AI System**, where Big Tech
   companies control various aspects of AI technologies and services,
   encompassing everything from the foundational models to the devices that use
