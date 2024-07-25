@@ -15,6 +15,14 @@ const MenuItems = [
     title: "About",
   },
   {
+    path: "/services",
+    title: "Services",
+  },
+  {
+    path: "/case-studies",
+    title: "Case Studies",
+  },
+  {
     path: "/blog",
     title: "Blog",
   },

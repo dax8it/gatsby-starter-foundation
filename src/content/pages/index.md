@@ -1,15 +1,21 @@
 ---
 template: index-page
 slug: /
-title: "[name].videographer.eth"
-tagline: Secure Your Digital Identity, Get Paid in Crypto
+title: "Alex Covo Studio NYC"
+tagline: "Where Creativity Meets AI"
 featuredImage: /assets/videographer.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-Welcome to **videographer.eth**, your gateway to a revolutionary digital identity in the world of video production. Secure your unique subdomain like john.videographer.eth and stand out in the era of AI-driven content creation. With your personalized Web3 subdomain, you can receive payments in cryptocurrency, enhance your professional branding, and solidify your presence on the blockchain. Elevate your brand and join the future of videography today.
+<br>
+
+# Amplifying Your Brand's Potential 
+
+<br>
+
+At **Alex Covo Studio NYC**, we're not just keeping up with the times—we're defining them. Our journey from pixel-perfect photography to AI-powered innovations is fueled by one constant: ***our passion for creative excellence***.
 
 
  <script

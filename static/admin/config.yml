@@ -89,6 +89,10 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
+
+
+      
+                
       - label: "About"
         name: "about"
         file: "src/content/pages/about.md"
@@ -102,6 +106,41 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Services"
+        name: "services"
+        file: "src/content/pages/services.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "services-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/services" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Case-studies"
+        name: "case-studies"
+        file: "src/content/pages/case-studies.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "case-studies-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/case-studies" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+
+
+
+
+
+
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"
