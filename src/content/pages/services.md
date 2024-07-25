@@ -6,9 +6,9 @@ title: What we do
 
 # Where Creativity Meets AI: Amplifying Your Brand's Potential
 
-At Alex Covo Studio NYC, we're not just keeping up with the times—we're defining them. Our journey from pixel-perfect photography to AI-powered innovations is fueled by one constant: our passion for creative excellence.
+At Alex Covo Studio NYC, we're not just keeping up with the times—we're defining them. Our journey from pixel-perfect photography to AI-powered innovations is fueled by one constant: our passion for creative excellence.  
 
-## Our Creative Roots: Crafting Visual Stories
+## Our Creative Roots: Crafting Visual Stories  
 
 For 15 years, we've been turning ideas into eye-catching realities:
 
