@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: "Alex Covo Studio NYC"
 tagline: "Where Creativity Meets AI"
-featuredImage: /assets/videographer.png
+featuredImage: /assets/alexcovo-logo-ai.png
 cta:
   ctaText: Know more
   ctaLink: /about
