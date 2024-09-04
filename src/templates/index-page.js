@@ -236,22 +236,21 @@ const HomePage = ({ data }) => {
         <h1 
           className="title" 
           sx={{
-            fontSize: "4rem",
+            fontSize: "5rem",
             fontWeight: "700",
             color: "#2D0E4C",
-            textAlign: "center",
+            textAlign: "left",
             marginTop: "2rem",
-            marginBottom: "2rem",
+            marginBottom: ".1rem",
             fontFamily: "'Playfair Display', serif",
           }}
         >
           {frontmatter.title}
         </h1>
-        <div className="home-banner grids col-1 sm-2">
+        <div className="home-banner grids col-1 sm-2">          
           <div>
-           
             <div 
-              sx={{ marginTop: "2rem", fontSize: "0.9rem" }}
+              sx={{ marginTop: ".1rem", fontSize: "0.9rem" }}
               className="description"
               dangerouslySetInnerHTML={{ __html: html }}
             />
