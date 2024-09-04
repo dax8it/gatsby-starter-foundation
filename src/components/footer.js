@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        A site dedicated to all things AI{" "}
+      Amplifying Your Brand's Potential {" "}
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}

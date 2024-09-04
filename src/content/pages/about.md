@@ -9,6 +9,8 @@ title: About Us
 
 When we first set up shop as ALEX COVO STUDIO NYC, we never imagined the incredible journey ahead. From the bustling streets of New York to the far corners of the globe, our passion for storytelling and commitment to excellence have become the very fabric of our being.
 
+---
+
 What started as a creative boutique specializing in photography and video production has evolved into a cutting-edge studio where creativity meets artificial intelligence. But one thing remains constant: we still treat every client as our one and only partner.
 
 
@@ -17,16 +19,28 @@ What started as a creative boutique specializing in photography and video produc
 
 ## Who We Are: Creatives, Innovators, Storytellers
 
+<br>
+
 We're not just a studio; we're a melting pot of ideas, cultures, and experiences. As a NYC Certified Minority Owned Business Enterprise, we bring diverse perspectives to every project. Our team is a carefully curated blend of seasoned creatives and AI enthusiasts, all united by a simple belief: every image, every video, every piece of content should be nothing short of inspiring.
 
+<br>
+
 ## What We Do: Where Tradition Meets Innovation
+
+<br>
 
 ### Our Roots: Visual Storytelling
 - **Photography**: From product shoots that pop to unforgettable event coverage
 - **Video Production**: Turning brand stories into visual masterpieces
 - **Creative Development**: Crafting concepts that capture hearts and minds
 
+<br>
+
+
 ### Our New Frontier: AI-Powered Creativity
+
+<br>
+
 - **AI-Enhanced Editing**: Supercharging our visual magic with artificial intelligence
 - **AI-Generated Content**: Creating scalable, personalized content that resonates
 - **Agentic AI Solutions**: Developing custom AI agents to revolutionize your creative processes

@@ -7,7 +7,7 @@ const Theme = () => {
   const [colorMode, setColorMode] = useColorMode()
   return (
     <div sx={themeStyles.modeOption}>
-      <button
+     {/*} <button
         onClick={e => {
           setColorMode(colorMode === "default" ? "dark" : "default")
         }}
@@ -18,7 +18,7 @@ const Theme = () => {
             {colorMode === "default" ? "Dark" : "Light"}
           </div>
         </div>
-      </button>
+      </button> */}
     </div>
   )
 }

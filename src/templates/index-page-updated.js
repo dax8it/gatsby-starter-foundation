@@ -26,7 +26,6 @@ import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import Seo from "../components/seo"
 import Icons from "../util/socialmedia.json"
-import WhoWeAreSection from "../components/WhoWeAreSection"
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!) {
@@ -219,17 +218,11 @@ const HomePage = ({ data }) => {
   return (
     <Layout>
       <Seo />
-        
-
-        
-
       <div sx={{
         maxWidth: "1140px",
         margin: "0 auto",
         padding: "0 20px",
       }}>
-         {/* Insert the new WhoWeAreSection component here */}
-      <WhoWeAreSection />
         {/*  {Image ? (
               <GatsbyImage
                 image={Image}
@@ -370,18 +363,15 @@ const HomePage = ({ data }) => {
               sx={{
                 color: "#FFA15C",
                 fontWeight: "bold",
-                marginLeft: "3rem",
                 marginBottom: "1rem",
               }}
             >
               WORKING WORLDWIDE
             </p>
-            <p sx={{ 
-              marginRight: "3rem", 
-              marginBottom: "1rem" }}>
+            <p sx={{ marginBottom: "1rem" }}>
               Based in New York City
             </p>
-           {/*} <Link
+            <Link
               to="/contact"
               sx={{
                 color: "white",
@@ -390,7 +380,6 @@ const HomePage = ({ data }) => {
             >
               Discuss a project
             </Link>
-            */}
           </div>
           <h2
             sx={{

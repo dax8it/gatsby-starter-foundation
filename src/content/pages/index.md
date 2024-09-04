@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: "A Creative Digital Agency"
+title: "AI Creative Digital Agency"
 tagline: "Alex Covo Studio NYC"
 featuredImage: /assets/alexcovo-logo-ai.png
 cta:
