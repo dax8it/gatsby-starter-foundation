@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: "Alex Covo Studio NYC"
-tagline: "Where Creativity Meets AI"
+title: "A Creative Digital Agency"
+tagline: "Alex Covo Studio NYC"
 featuredImage: /assets/alexcovo-logo-ai.png
 cta:
   ctaText: Know more
@@ -15,7 +15,7 @@ cta:
 
 <br>
 
-At **Alex Covo Studio NYC**, we're not just keeping up with the times—we're defining them. Our journey from pixel-perfect photography to AI-powered innovations is fueled by one constant: ***our passion for creative excellence***.
+We're not just keeping up with the times—we're defining them. Our journey from pixel-perfect photography to AI-powered innovations is fueled by one constant: ***our passion for creative excellence***.
 
 
  <script

@@ -17,7 +17,7 @@ What started as a creative boutique specializing in photography and video produc
 
 ## Who We Are: Creatives, Innovators, Storytellers
 
-We're not just a studio; we're a melting pot of ideas, cultures, and experiences. As a NYC Certified Minority & Women Owned Business Enterprise, we bring diverse perspectives to every project. Our team is a carefully curated blend of seasoned creatives and AI enthusiasts, all united by a simple belief: every image, every video, every piece of content should be nothing short of inspiring.
+We're not just a studio; we're a melting pot of ideas, cultures, and experiences. As a NYC Certified Minority Owned Business Enterprise, we bring diverse perspectives to every project. Our team is a carefully curated blend of seasoned creatives and AI enthusiasts, all united by a simple belief: every image, every video, every piece of content should be nothing short of inspiring.
 
 ## What We Do: Where Tradition Meets Innovation
 

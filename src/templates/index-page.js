@@ -213,58 +213,190 @@ const HomePage = ({ data }) => {
     )
   })
 
+
+  
   return (
     <Layout>
       <Seo />
-      <div className="home-banner grids col-1 sm-2">
-        <div>
-          <h1 className="title">{frontmatter.title}</h1>
-          <p
-            className="tagline"
-            sx={{
-              color: "muted",
-            }}
-          >
-            {frontmatter.tagline}
-          </p>
+      <div sx={{
+        maxWidth: "1140px",
+        margin: "0 auto",
+        padding: "0 20px",
+      }}>
+        {/*  {Image ? (
+              <GatsbyImage
+                image={Image}
+                alt={frontmatter.title + " - Featured image"}
+                className="featured-image"
+              />
+            ) : (
+              ""
+            )}
+            */} 
+        <h1 
+          className="title" 
+          sx={{
+            fontSize: "4rem",
+            fontWeight: "700",
+            color: "#2D0E4C",
+            textAlign: "center",
+            marginTop: "2rem",
+            marginBottom: "2rem",
+            fontFamily: "'Playfair Display', serif",
+          }}
+        >
+          {frontmatter.title}
+        </h1>
+        <div className="home-banner grids col-1 sm-2">
+          <div>
+           
+            <div 
+              sx={{ marginTop: "2rem", fontSize: "0.9rem" }}
+              className="description"
+              dangerouslySetInnerHTML={{ __html: html }}
+            />
+            <Link
+              to={frontmatter.cta.ctaLink}
+              className="button"
+              sx={{
+                variant: "variants.button",
+              }}
+            >
+              {frontmatter.cta.ctaText}
+              <span className="icon -right">
+                <RiArrowRightSLine />
+              </span>
+            </Link>
+           
+            <div sx={{ marginTop: "2rem", fontSize: "0.9rem" }}>
+            <p
+              className="tagline"
+              sx={{
+                color: "muted",
+              }}
+            >
+              {frontmatter.tagline}
+            </p>
+              <p>We're NYC (MBE) Minority Business Certified and 100 percent minority owned and led. Our differences make us smarter. Our passion for great experiences keeps us learning and growing.</p>
+            </div>
+          </div>
+          
           <div
-            className="description"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
-          <Link
-            to={frontmatter.cta.ctaLink}
-            className="button"
             sx={{
-              variant: "variants.button",
+              fontFamily: "'Playfair Display', serif",
+              fontSize: "2rem",
+              lineHeight: "1.4",
+              color: "#2D0E4C",
+              '& strong': {
+                fontWeight: "700"
+              }
             }}
           >
-            {frontmatter.cta.ctaText}
-            <span className="icon -right">
-              <RiArrowRightSLine />
-            </span>
-          </Link>
-          <div
-            className="social-icons"
-            sx={{
-              variant: "variants.socialIcons",
-            }}
-          >
-            {sIcons}
+            
+            <p>
+            Pioneering <strong>digital evolution</strong>, we breathe life into brands. Our unique fusion of <strong>narrative</strong>, <strong>technology</strong>, and <strong>design</strong> sets us apart. We blend <strong>meticulous research</strong> with <strong>innovative thinking</strong>, delivering unrivaled digital experiences.
+           
+          
+        
+            </p>
+            
           </div>
         </div>
-        <div>
-          {Image ? (
-            <GatsbyImage
-              image={Image}
-              alt={frontmatter.title + " - Featured image"}
-              className="featured-image"
-            />
-          ) : (
-            ""
-          )}
+      </div>
+      <div
+        sx={{
+          backgroundColor: "#2D0E4C",
+          color: "white",
+          padding: "4rem 2rem",
+          textAlign: "center",
+        }}
+      >
+        <div
+          sx={{
+            maxWidth: "1140px",
+            margin: "0 auto",
+          }}
+        >
+          <h2
+            sx={{
+              fontSize: "1.2rem",
+              fontWeight: "normal",
+              marginBottom: "2rem",
+            }}
+          >
+            Tell us about your project
+          </h2>
+          <p
+            sx={{
+              fontSize: ["2.5rem", "3rem", "3.5rem"],
+              lineHeight: 1.2,
+              fontFamily: "'Playfair Display', serif",
+              marginBottom: "2rem",
+            }}
+          >
+             Share your vision, and let's create something extraordinary. Together, we'll elevate your brand, captivate your audience, and drive your success forward.
+    
+          </p>
+          <Link
+            to="/contact"
+            sx={{
+              display: "inline-block",
+              backgroundColor: "#8A4FFF",
+              color: "white",
+              padding: "1rem 2rem",
+              borderRadius: "2rem",
+              textDecoration: "none",
+              fontWeight: "bold",
+              marginBottom: "3rem",
+            }}
+          >
+            Partner With Us
+          </Link>
+          <div
+            sx={{
+              display: "flex",
+              justifyContent: "space-between",
+              alignItems: "center",
+              flexWrap: "wrap",
+            }}
+          >
+            <p
+              sx={{
+                color: "#FFA15C",
+                fontWeight: "bold",
+                marginBottom: "1rem",
+              }}
+            >
+              WORKING WORLDWIDE
+            </p>
+            <p sx={{ marginBottom: "1rem" }}>
+              Based in New York City
+            </p>
+            <Link
+              to="/contact"
+              sx={{
+                color: "white",
+                textDecoration: "underline",
+              }}
+            >
+              Discuss a project
+            </Link>
+          </div>
+          <h2
+            sx={{
+              fontSize: ["4rem", "5rem", "6rem"],
+              fontFamily: "'Playfair Display', serif",
+              marginTop: "2rem",
+            }}
+          >
+            Let's Talk
+          </h2>
         </div>
       </div>
+      <div sx={{ marginTop: "2rem", fontSize: "0.9rem" }}>
       <BlogListHome data={posts} />
+      </div>
+      
     </Layout>
   )
 }
