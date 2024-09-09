@@ -1,9 +1,10 @@
 ---
 template: about-page
 slug: /about
-title: About Us
+title: ABOUT US
 ---
 
+<br>
 
 # Our Story: From NYC Streets to Digital Frontiers
 
@@ -45,12 +46,21 @@ We're not just a studio; we're a melting pot of ideas, cultures, and experiences
 - **AI-Generated Content**: Creating scalable, personalized content that resonates
 - **Agentic AI Solutions**: Developing custom AI agents to revolutionize your creative processes
 
+<br>
+
 ### The Best of Both Worlds
+
+<br>
+
 - **Web Development**: Jamstack wizardry with GatsbyJS, Cloudinary, and more
 - **Project Management**: Local to international, we've got you covered
 - **Full-Service Production**: From location scouting to post-production perfection
 
+<br>
+
 ## Why Choose Us: Small Agency Heart, Big Agency Impact
+
+<br>
 
 1. **Direct Access**: Chat with our CEO/Owner anytime
 2. **Consistent Team**: The folks you meet are the folks who'll create your magic
@@ -58,21 +68,36 @@ We're not just a studio; we're a melting pot of ideas, cultures, and experiences
 4. **Budget-Friendly**: Big agency results without the big agency price tag
 5. **Right-Sized Focus**: We take on just enough projects to give each our full attention
 
+<br>
+
 ## Our AI Evolution: Amplifying Creativity, Not Replacing It
+
+<br>
 
 We've always been on the cutting edge, but our leap into AI isn't about replacing the human touch—it's about amplifying it. We've carefully integrated AI into our creative process, giving our artists superpowers to create content that's more engaging, more personalized, and more impactful than ever before.
 
+<br>
+
 ## Our Commitment: Your Vision, Our Mission
+
+<br>
 
 Whether you're a small "next-door" business or a large multinational, whether you need a single photo or a complex AI-driven campaign, our commitment remains the same: we pour our heart and soul into every project, treating your vision as our personal mission.
 
+<br>
+
 ## Let's Create Something Extraordinary
+
+<br>
 
 Ready to embark on a creative journey that blends the best of human imagination with the power of AI? Let's talk! Whether you're looking to meet M/WBE requirements for a city project or you're seeking a creative partner who can take your brand to new heights, we're here to turn your vision into reality.
 
-[Contact Button: Start Your Creative Adventure]
+<br>
 
----
+[<button style="background-color:#8A4FFF; color:white; padding:10px 20px; border:none; cursor:pointer;">Contact Button: Start Your Creative Adventure</button>](your-contact-url)
+
+
+<br>
 
 **NYC Certified Minority & Women Owned Business Enterprise**  
 **NAIC CODES:** 512110 • 541921 • 541922 • 711510  

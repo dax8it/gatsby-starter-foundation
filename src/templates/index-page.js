@@ -126,6 +126,7 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+        {/*
         {icons.icon === "rss" ? (
           <a href={icons.url} target="_blank" aria-label="link to RSS" rel="noopener noreferrer">
             <RiRssFill alt="RSS icon" />
@@ -182,6 +183,7 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+        
         {icons.icon === "dribbble" ? (
           <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
             <RiDribbbleFill alt="Dribbble icon" />
@@ -196,6 +198,7 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+
         {icons.icon === "behance" ? (
           <a href={icons.url} target="_blank" aria-label="link to Behance" rel="noopener noreferrer">
             <RiBehanceFill alt="Behance icon" />
@@ -203,6 +206,8 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+       
+
         {icons.icon === "vk" ? (
           <a href={icons.url} target="_blank" aria-label="link to vk" rel="noopener noreferrer">
             <FaVk alt="vk icon" />
@@ -210,6 +215,7 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
+         */}
       </div>
     )
   })
@@ -228,7 +234,7 @@ const HomePage = ({ data }) => {
         margin: "0 auto",
         padding: "0 20px",
       }}>
-         {/* Insert the new WhoWeAreSection component here */}
+      {/* Insert the new WhoWeAreSection component here */}
       <WhoWeAreSection />
         {/*  {Image ? (
               <GatsbyImage
@@ -246,7 +252,7 @@ const HomePage = ({ data }) => {
             fontSize: "5rem",
             fontWeight: "700",
             color: "#2D0E4C",
-            textAlign: "left",
+            textAlign: "center",
             marginTop: "2rem",
             marginBottom: ".1rem",
             fontFamily: "'Playfair Display', serif",
