@@ -94,7 +94,7 @@ Ready to embark on a creative journey that blends the best of human imagination 
 
 <br>
 
-[<button style="background-color:#8A4FFF; color:white; padding:10px 20px; border:none; cursor:pointer;">Contact Button: Start Your Creative Adventure</button>](your-contact-url)
+[<button style="background-color:#8A4FFF; color:white; padding:10px 20px; border:none; cursor:pointer;">Contact Button: Start Your Creative Adventure</button>](/contact)
 
 
 <br>
