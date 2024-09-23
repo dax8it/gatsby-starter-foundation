@@ -7,17 +7,23 @@ featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
 description: metaphorically make a deal with the devil
 ---
 
-\# When will that be?\
+
+# When will that be?
 \
 I haven't felt much of anything since my guinea pig died. Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.\
 \
-We'll go deliver this crate like professionals, and then we'll go home. Leela, are you alright? \_\_You got wanged on the head.\_\_ \*Dear God, they'll be killed on our doorstep!\* And there's no trash pickup until January 3rd.\
+\
+We'll go deliver this crate like professionals, and then we'll go home. Leela, are you alright? \_\_You got wanged on the head.\_\_ 
+\
+\
+\*Dear God, they'll be killed on our doorstep!\* And there's no trash pickup until January 3rd.\
 \
 
-## Bender, you risked your life to save me!\
+
+## Bender, you risked your life to save me!
 
 \
-Fry! Stay back! He's too powerful! That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! You, minion. Lift my arm. AFTER HIM! When will that be?\
+\Fry! Stay back! He's too powerful! That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! You, minion. Lift my arm. AFTER HIM! When will that be?\
 \
 
 1. All I want is to be a monkey of moderate intelligence who wears a suit… that's why I'm transferring to business school!\
