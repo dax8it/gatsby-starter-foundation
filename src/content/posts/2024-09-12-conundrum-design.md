@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Conundrums Design
-slug: /Conundrum Design
+slug: /2024-09-12-conundrum-design
 date: 2024-09-12 23:40
 description: Conundrum Exercises
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg

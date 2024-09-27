@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "The Impact of AI on Photography: A Paradigm Shift"
-slug: /ai/paradigm-shift
+slug: 2024-08-18-ai-paradigm-shift
 date: 2024-08-18 18:44
 description: Artificial Intelligence (AI) has been making waves in various industries, and photography is no exception.
 featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg

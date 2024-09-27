@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: AI Ecosystem Dominance
-slug: /ai-ecosystem
+slug: /2024-06-11-ai-ecosystem
 date: 2024-06-01 12:46
 description: "**AI Ecosystem** or an **Integrated AI System**, where Big Tech
   companies control various aspects of AI technologies and services,
